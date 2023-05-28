@@ -1,0 +1,51 @@
+{
+  "translations": [
+    {
+      "detected_source_language": "EN",
+      "text": {
+        "ABOUTUS_TITLE": "ABOUT US",
+        "ABOUT_DESCRIPTION": "Le Lorem Ipsum est tout simplement le texte factice de l'industrie de l'impression et de la composition. Le Lorem Ipsum a été le texte factice standard de l'industrie",
+        "OUR_VISION_TITLE": "OUR VISION",
+        "OUR_VISION_DESC_1": "Le Lorem Ipsum est simplement le texte factice de l'industrie de l'impression et de la composition.",
+        "OUR_VISION_DESC_2": "Le Lorem Ipsum est simplement le texte factice de l'industrie de l'impression et de la composition. Le Lorem Ipsum est le texte factice standard de l'industrie depuis les années 1500, lorsqu'un imprimeur inconnu prit une galère de caractères et brouilla le Lorem Ipsum est simplement le texte factice de l'industrie de l'impression et de la composition. Le Lorem Ipsum est le texte factice standard de l'industrie depuis les années 1500, lorsqu'un imprimeur inconnu a pris une galère de caractères et a brouillé",
+        "OUR_BELIEF_TITLE": "OUR BELIEF - SPACE IS FOR EVERYONE",
+        "OUR_BELIEF_DESC_1": "Le Lorem Ipsum est simplement le texte factice de l'industrie de l'impression et de la composition.",
+        "OUR_BELIEF_DESC_2": "Le Lorem Ipsum est simplement un texte factice de l'industrie de l'impression et de la composition. Le Lorem Ipsum est le texte factice standard de l'industrie depuis les années 1500, lorsqu'un imprimeur inconnu a pris une galère de caractères et a brouillé le Lorem Ipsum est simplement le texte factice de l'industrie de l'impression et de la composition. Le Lorem Ipsum est le texte factice standard de l'industrie depuis les années 1500, quand un imprimeur inconnu a pris une galère de caractères et a brouillé",
+        "OUR_BELIEF_DESC_3": "Le Lorem Ipsum est simplement le texte factice de l'industrie de l'impression et de la composition. Lorem Ipsum a été le texte factice standard de l'industrie depuis les années 1500",
+        "HOME_BANNER_TITLE": "Faites du commerce sans souci avec",
+        "CHAINPALS": "abc",
+        "HOME_BANNER_DESCRIPTION": "Nous fournissons un service de séquestre pour votre transaction cryptographique, avec un paiement basé sur les étapes et avec la confiance des contrats intelligents sur plusieurs chaînes.",
+        "BANNER_SUBSCRIBE_TITLE": "Soyez le premier à être informé",
+        "BANNER_SUBSCRIBE_DESCRIPTION": "Être un abonné précoce et un membre de la communauté a ses propres avantages, soyez précoce et ayez la chance de participer aux largages et aux événements à venir",
+        "HOW_IT_WORKS": "Comment ça marche ?",
+        "HOW_IT_WORKS_DESCRIPTION": "ChainPal désigne un gestionnaire de séquestre parmi les détenteurs de NFT pour résoudre les conflits et 0.5% de frais sont payés au gestionnaire de séquestre désigné",
+        "BENEFIT_OF_CHAINPAL_TOKEN": "Avantages du jeton ChainPals",
+        "GOVERNANCE_LABEL": "Gouvernance",
+        "DISCOUNT_LABEL": "50% de réduction sur les frais",
+        "TRANSACTION_LABEL": "Pas de frais si la transaction est effectuée en jetons chainpal",
+        "REWARD_LABEL": "Get staking rewards distribution of 1% every transaction",
+        "TOKEN_MECHANISM_LABEL": "Pre-defined token burn mechanism",
+        "GOVERNANCE_DESC_1": "Lorem Ipsum est simplement le texte factice de l'industrie de l'impression et de la composition. Le Lorem Ipsum est le texte factice standard de l'industrie depuis les années 1500, lorsqu'un imprimeur inconnu a pris une galère de caractères et a brouillé le Lorem Ipsum est simplement le texte factice de l'industrie de l'impression et de la composition. Le Lorem Ipsum est le texte factice standard de l'industrie depuis les années 1500, lorsqu'un imprimeur inconnu a pris une galéjade de caractères et a brouillé le GOV",
+        "GOVERNANCE_DESC_2": "Le Lorem Ipsum est simplement le texte factice de l'industrie de l'impression et de la composition. Le Lorem Ipsum a été le texte factice standard de l'industrie depuis les années 1500.",
+        "DESCOUNT_DESC_1": "Le Lorem Ipsum est simplement le texte factice de l'industrie de l'impression et de la composition. Le Lorem Ipsum est le texte factice standard de l'industrie depuis les années 1500, lorsqu'un imprimeur inconnu a pris une galère de caractères et a brouillé le Lorem Ipsum est simplement le texte factice de l'industrie de l'impression et de la composition. Le Lorem Ipsum est le texte factice standard de l'industrie depuis les années 1500, lorsqu'un imprimeur inconnu a pris une galère de caractères et a brouillé DESC",
+        "DESCOUNT_DESC_2": "Le Lorem Ipsum est simplement le texte factice de l'industrie de l'impression et de la composition. Le Lorem Ipsum a été le texte factice standard de l'industrie depuis les années 1500.",
+        "TRANSACTION_DESC_1": "Le Lorem Ipsum est simplement le texte factice de l'industrie de l'impression et de la composition. Le Lorem Ipsum est le texte factice standard de l'industrie depuis les années 1500, lorsqu'un imprimeur inconnu a pris une galère de caractères et a brouillé le Lorem Ipsum est simplement le texte factice de l'industrie de l'impression et de la composition. Le Lorem Ipsum est le texte factice standard de l'industrie depuis les années 1500, lorsqu'un imprimeur inconnu a pris une galère de caractères et a brouillé le TRNS",
+        "TRANSACTION_DESC_2": "Le Lorem Ipsum est simplement le texte factice de l'industrie de l'impression et de la composition. Le Lorem Ipsum a été le texte factice standard de l'industrie depuis les années 1500.",
+        "REWARD_DESC_1": "Le Lorem Ipsum est simplement le texte factice de l'industrie de l'impression et de la composition. Le Lorem Ipsum est le texte factice standard de l'industrie depuis les années 1500, lorsqu'un imprimeur inconnu a pris une galère de caractères et a brouillé le Lorem Ipsum est simplement le texte factice de l'industrie de l'impression et de la composition. Le Lorem Ipsum est le texte factice standard de l'industrie depuis les années 1500, lorsqu'un imprimeur inconnu a pris une galère de caractères et a brouillé REWARD",
+        "REWARD_DESC_2": "Le Lorem Ipsum est simplement le texte factice de l'industrie de l'impression et de la composition. Le Lorem Ipsum a été le texte factice standard de l'industrie depuis les années 1500.",
+        "TOKEN_MECHANISM_DESC_1": "Le Lorem Ipsum est simplement le texte factice de l'industrie de l'impression et de la composition. Le Lorem Ipsum est le texte factice standard de l'industrie depuis les années 1500, quand un imprimeur inconnu a pris une galère de caractères et a brouillé le Lorem Ipsum est simplement le texte factice de l'industrie de l'impression et de la composition. Le Lorem Ipsum est le texte factice standard de l'industrie depuis les années 1500, lorsqu'un imprimeur inconnu a pris une galère de caractères et a brouillé le TOKEN",
+        "TOKEN_MECHANISM_DESC_2": "Le Lorem Ipsum est simplement le texte factice de l'industrie de l'impression et de la composition. Lorem Ipsum a été le texte factice standard de l'industrie depuis les années 1500.",
+        "JOIN_PARTNER_TITLE": "Rejoignez le programme de partenariat ChainPals",
+        "JOIN_PARTNER_DESCRIPTION": "Devenez un partenaire ChainPal et commencez à gagner des revenus passifs en présentant à votre public des transactions sûres pour les paiements en crypto.",
+        "JOIN_ESCROW_MANAGER_TITLE": "Rejoignez le programme de gestionnaire de dépôt fiduciaire",
+        "JOIN_ESCROW_MANAGER_DESCRIPTION": "Devenez un gestionnaire de dépôt fiduciaire ChainPal et commencez à gagner un revenu passif en hébergeant EM NFT.",
+        "ROADMAP_TITLE": "Feuille de route",
+        "ROADMAP_TEXT_1": "Brainstorming de l'application et début de la version Beta de chainpals.création du livre blanc, tokenomics et site web.'ROADMAP_TEXT_2' : 'Lancement du site web Beta et lancement de la prévente du jeton",
+        "ROADMAP_TEXT_3": "Lancement de la vente publique, de la fonctionnalité de jalonnement et de la première combustion du jeton",
+        "ROADMAP_TEXT_4": "Lancement des NFT pour la nomination du gestionnaire de séquestre. Lancement de la gouvernance pour voter pour le gestionnaire d'entiercement qui serait l'entiercement pour la transaction et gagnerait une partie des frais. deuxième brûlage de jetons",
+        "ROADMAP_TEXT_5": "Lancement de la fonctionnalité multi-chaîne et multi jetons et troisième brûlage de jetons",
+        "TOKENOMICS_TITLE": "Tokenomics"
+      }
+    }
+  ]
+}

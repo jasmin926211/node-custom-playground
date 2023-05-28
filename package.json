@@ -1,0 +1,31 @@
+{
+  "name": "nodejs-playground",
+  "version": "1.0.0",
+  "description": "This is a playground to experiment with js code and libraries",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "keywords": [
+    "nodej",
+    "playground"
+  ],
+  "author": "Adrixus",
+  "license": "ISC",
+  "dependencies": {
+    "content-type-parser": "^1.0.2",
+    "deepl": "^1.0.13",
+    "express": "^4.18.1",
+    "gst-verification": "^1.0.0",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
+    "mongoose": "^6.2.11",
+    "nodemon": "^2.0.19",
+    "qs": "^6.10.3",
+    "soap": "^1.0.0",
+    "web3": "^1.7.4",
+    "yarn": "^1.22.19"
+  }
+}
